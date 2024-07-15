@@ -27,7 +27,7 @@ export default function Home() {
               </p>
               <div className="mt-7 sm:mt-12 mx-auto max-w-3xl relative">
                 <div className="grid gap-4 md:grid-cols-2 grid-cols-1">
-                  <div className="relative z-10 flex flex-col space-x-3 border rounded-lg shadow-lg bg-neutral-500 border-neutral-700 shadow-gray-900/20">
+                  <div className="relative z-10 flex flex-col space-x-3 border rounded-lg shadow-lg bg-neutral-800 border-neutral-700 shadow-gray-900/20">
                     <TextArea
                       id={"source-language"}
                       value={sourceText}
